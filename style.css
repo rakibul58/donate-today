@@ -83,3 +83,28 @@
     border: 2px solid #FF5959;
     background-color: #FFEEEE;
 }
+.selection-input{
+    margin-top: 130px;
+}
+
+.amount-input{
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+    height: 50px;
+    border: none;
+    outline: 0;
+    border-bottom: 2px solid grey;
+    font-size: 20px;
+    
+}
+
+.amount-input:focus{
+    border: none;
+    border-bottom: 2px solid rgb(39, 36, 36);
+}
+
+.donate-now-btn{
+    margin-top: 50px;
+    text-align: center;
+}
