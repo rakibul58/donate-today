@@ -167,3 +167,25 @@
     line-height: 10px;
     color: gray;
 }
+.sub-form{
+    margin-left: 316px;
+    margin-right: 316px;
+    background-color: rgba(255, 89, 89, 0.1);
+    margin-bottom: 100px;
+}
+
+.form{
+    display: flex;
+    padding: 40px;
+    
+   
+}
+.form input{
+    margin-left: 24%;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.178);
+}
+
+
+
