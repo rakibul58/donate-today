@@ -151,4 +151,19 @@
 
 .donate-plan-text p{
     line-height: 10px;
+    color: gray;
+}
+
+.get-updates-text{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.get-updates-text h1{
+    font-size: 50px;
+}
+
+.get-updates-text p{
+    line-height: 10px;
+    color: gray;
 }
