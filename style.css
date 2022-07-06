@@ -48,3 +48,38 @@
 .btn-div{
     margin-top: -70px;
 }
+.donate-today{
+    margin-top: 100px;
+}
+.donate-today-text{
+    text-align: center;
+}
+.donate-today-text h1{
+    font-size: 50px;
+    line-height: 35px;
+}
+.donate-today-text p{
+    font-size: 16px;
+    color: grey;
+    line-height: 10px;
+}
+.selection{
+    margin-left: 180px;
+    margin-top: 130px;
+}
+.selection a{
+    padding: 50px 50px;
+    background-color: whitesmoke;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    color: grey;
+    font-weight: 700;
+    font-size: 30px;
+    text-decoration: none;
+}
+#selected{
+    color: #FF5959;
+    border: 2px solid #FF5959;
+    background-color: #FFEEEE;
+}
