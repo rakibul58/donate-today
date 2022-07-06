@@ -115,7 +115,6 @@
 }
 
 .donate-plan-card{
-    border: 1px solid black;
     width: 360px;
     height: 200px;
     border-radius: 5px;
@@ -126,14 +125,30 @@
 #center-plan{
     margin-left: 24px;
     margin-right: 24px;
+    background-color:rgba(255, 89, 89, 0.1);
 }
 #left-plan{
     margin-left: 157px;
+    background-color: rgba(79, 157, 166, 0.1);
 }
 #right-plan{
     margin-right: 157px;
+    background-color: rgba(255, 244, 214, 1);
 }
 
 .donate-plan p{
+    line-height: 10px;
+}
+
+.donate-plan-text{
+    margin-top: 120px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.donate-plan-text h1{
+    font-size: 50px;
+}
+
+.donate-plan-text p{
     line-height: 10px;
 }
