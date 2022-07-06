@@ -171,7 +171,7 @@
     margin-left: 316px;
     margin-right: 316px;
     background-color: rgba(255, 89, 89, 0.1);
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 
 .form{
@@ -185,6 +185,26 @@
     border-radius: 5px;
     border: none;
     background-color: rgba(128, 128, 128, 0.178);
+}
+
+footer{
+    background-color: #0B0D17;
+    background-size: cover;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+footer h1{
+    color: #FF5959;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'The Nautigal', cursive;
+    font-size: 50px;
+}
+
+footer p{
+    color: white;
 }
 
 
