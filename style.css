@@ -108,3 +108,32 @@
     margin-top: 50px;
     text-align: center;
 }
+
+.donate-plan{
+    display: flex;
+    margin-top: 100px;
+}
+
+.donate-plan-card{
+    border: 1px solid black;
+    width: 360px;
+    height: 200px;
+    border-radius: 5px;
+    padding: 63px;
+    padding-left: 23px;
+}
+
+#center-plan{
+    margin-left: 24px;
+    margin-right: 24px;
+}
+#left-plan{
+    margin-left: 157px;
+}
+#right-plan{
+    margin-right: 157px;
+}
+
+.donate-plan p{
+    line-height: 10px;
+}
